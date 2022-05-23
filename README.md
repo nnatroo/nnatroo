@@ -5,5 +5,3 @@
 <a href="https://www.instagram.com/nugonatroshvili/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnatroo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
