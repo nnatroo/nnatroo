@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/88983923/169912930-074e7414-7ff4-468d-bbb9-d295bb4080bd.jpg)
+![banner](![banner](https://user-images.githubusercontent.com/88983923/220450045-ae28c327-a692-4e65-a9a1-91ec1a69a366.png))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nugonatroshvili/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
