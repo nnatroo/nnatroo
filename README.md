@@ -8,3 +8,6 @@
   <img align="center" style src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
 </center>
 
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
