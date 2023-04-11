@@ -8,9 +8,6 @@
   <img align="center" style src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
 </p>
  -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
