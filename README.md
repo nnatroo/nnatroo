@@ -1,3 +1,4 @@
+<h1 align="center">Natroshvili</h1>
 <!-- ![banner](https://user-images.githubusercontent.com/88983923/220450092-6dd926b9-d822-42cc-af2c-03c78fab7386.png) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
