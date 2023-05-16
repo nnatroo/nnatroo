@@ -14,6 +14,6 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nnatroo&show_icons=true&theme=dark&locale=en" alt="nnatroo" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnatroo&theme=dark" alt="nnatroo" /></p>
 
-
+![](https://komarev.com/ghpvc/?username=natroo)
 
 
