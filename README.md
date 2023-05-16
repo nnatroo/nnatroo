@@ -1,6 +1,6 @@
 <h1 align="center">natro 👌🏽</h1>
 <!-- ![banner](https://user-images.githubusercontent.com/88983923/220450092-6dd926b9-d822-42cc-af2c-03c78fab7386.png) -->
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=nnatroo&color=blueviolet)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nugonatroshvili/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
